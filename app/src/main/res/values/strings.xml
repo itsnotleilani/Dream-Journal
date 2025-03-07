@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDreamJournalApp</string>
+    <string name="journal_content">Journal Content</string>
+    <string name="edit_journal_name">Edit Journal Name</string>
+    <string name="journal_name">Journal Name</string>
+    <string name="select_a_background_color">Select a background color</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_journals_available_start_by_adding_a_new_journal">No journals available. Start by adding a new journal!</string>
+    <string name="add_journal">Add Journal</string>
+    <string name="edit_journal">Edit Journal</string>
+    <string name="journal_name_in_add">Journal Name</string>
+</resources>
