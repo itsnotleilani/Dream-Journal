@@ -27,7 +27,7 @@ A Kotlin-based Android app that integrates the Gemini API, allowing users to cre
 
 Clone the repository:
 ``bash
-git clone https://github.com/yourusername/Dream-Journal.git
+git clone https://github.com/itsnotleilani/Dream-Journal.git
 ``
 
 Open the project in Android Studio.
