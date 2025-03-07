@@ -2,25 +2,28 @@
 
 A Kotlin-based Android app that integrates the Gemini API, allowing users to create, save, and analyze their dream journal entries. The app features a loading screen, home screen, and an entry screen. Users can edit their journal entries or have the Gemini large language model (LLM) analyze their dreams for insights. All journal entries are stored locally using Room Database for persistent storage.
 
-Features
+## Features
 
 Home Screen: Displays a list of saved journal entries with options to view or edit.
 Entry Screen: Allows users to write or edit journal entries. Optionally, the Gemini LLM can analyze the content of a dream.
 Loading Screen: Provides a smooth user experience while the app loads.
 Room Database: Journals are stored locally using Room Database, enabling offline access to past entries.
-Technology Stack
+
+## Technology Stack
 
 Kotlin: The primary programming language for the app.
 Gemini API: Integrated to analyze and provide insights from journal entries, specifically focused on dreams.
 Room Database: For storing journal entries locally in a structured database.
 Jetpack Compose: Used for building modern, responsive UI components.
 ViewModel & LiveData: For managing UI-related data lifecycle-consciously.
-How to Use
+
+## How to Use
 
 Create a New Entry: On the home screen, tap the "New Entry" button to begin writing a new journal entry.
 Edit an Existing Entry: Tap on any saved entry to open and modify it.
 Analyze a Dream: On the entry screen, you can choose to have the Gemini LLM analyze your dream by tapping the "Analyze Dream" button.
-Installation
+
+## Installation
 
 Clone the repository:
 git clone https://github.com/yourusername/Dream-Journal.git
